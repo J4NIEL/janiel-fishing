@@ -1,11 +1,9 @@
 {
-    "version": "1.3.2",
+    "version": "1.4.2",
     "download": "https://keymaster.fivem.net/",
     "changelog": {
         "1.0.0": [
-            "Initial release",
-            "Added legal and illegal fishing",
-            "Added boat rental system",
+            "Debug fixed",
             "Bug fixed"
         ]
     }
