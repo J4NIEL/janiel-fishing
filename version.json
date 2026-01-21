@@ -1,10 +1,13 @@
 {
-    "version": "1.4.2",
-    "download": "https://keymaster.fivem.net/",
-    "changelog": {
-        "1.0.0": [
-            "Debug fixed",
-            "Bug fixed"
-        ]
-    }
+    "version": "1.4.3",
+    "changelog": [
+        "✨ Implemented new Bridge API for seamless framework integration",
+        "🔑 Added support for 10+ Vehicle Key systems (QB, XS, Wasabi, Renewed, etc.)",
+        "⛽ Massive Fuel System update (Support for 20+ scripts including Native)",
+        "📦 Extended Inventory support (QS, OX, ESX, Codem, Core, Custom)",
+        "⚡ Optimized performance and reduced resource usage",
+        "🔧 Fixed TextUI persistence and Inventory Sync issues",
+        "🧹 Complete code cleanup and refactoring"
+    ],
+    "download": "https://keymaster.fivem.net/login?return_url=/"
 }
